@@ -1,0 +1,11 @@
+C:\Users\Jordf\OneDrive\Documents\coding\csnotes\bin\Debug\netcoreapp2.2\csnotes.deps.json
+C:\Users\Jordf\OneDrive\Documents\coding\csnotes\bin\Debug\netcoreapp2.2\csnotes.runtimeconfig.json
+C:\Users\Jordf\OneDrive\Documents\coding\csnotes\bin\Debug\netcoreapp2.2\csnotes.runtimeconfig.dev.json
+C:\Users\Jordf\OneDrive\Documents\coding\csnotes\bin\Debug\netcoreapp2.2\csnotes.dll
+C:\Users\Jordf\OneDrive\Documents\coding\csnotes\bin\Debug\netcoreapp2.2\csnotes.pdb
+C:\Users\Jordf\OneDrive\Documents\coding\csnotes\obj\Debug\netcoreapp2.2\csnotes.csprojAssemblyReference.cache
+C:\Users\Jordf\OneDrive\Documents\coding\csnotes\obj\Debug\netcoreapp2.2\csnotes.csproj.CoreCompileInputs.cache
+C:\Users\Jordf\OneDrive\Documents\coding\csnotes\obj\Debug\netcoreapp2.2\csnotes.AssemblyInfoInputs.cache
+C:\Users\Jordf\OneDrive\Documents\coding\csnotes\obj\Debug\netcoreapp2.2\csnotes.AssemblyInfo.cs
+C:\Users\Jordf\OneDrive\Documents\coding\csnotes\obj\Debug\netcoreapp2.2\csnotes.dll
+C:\Users\Jordf\OneDrive\Documents\coding\csnotes\obj\Debug\netcoreapp2.2\csnotes.pdb
